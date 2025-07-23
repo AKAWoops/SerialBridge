@@ -10,3 +10,8 @@ dont forget to add the line in unity scripts to do calls for your dll using DLLi
 :-)
 
 Helps with usb serial communications that has been dropped since dot net 2.1 in unty 6.0
+
+
+will be adding more to this project while working on main project
+
+watch this space
